@@ -13,6 +13,3 @@ This project analyzes the Superstore Sales dataset using Power BI to create an i
 ## Tools Used
 - Power BI
 - Superstore Sales Dataset
-
-## Status
-Task 01 Completed
