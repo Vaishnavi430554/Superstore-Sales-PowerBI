@@ -1,11 +1,11 @@
-# 📊 Superstore Sales Dashboard | Power BI
+# Superstore Sales Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes Superstore sales data using **Power BI** to provide actionable business insights. The dashboard helps visualize sales performance, profitability, product performance, regional trends, and state-wise sales distribution through interactive dashboards.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall sales, profit, and quantity sold.
 - Identify the top-performing products by sales.
 - Compare sales across product categories.
